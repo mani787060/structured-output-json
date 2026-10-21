@@ -118,9 +118,3 @@ JSON is widely supported across programming languages and application environmen
 
 JSON Schema provides a standardized contract for describing structured data. Combined with a compatible LLM and LangChain, it can make AI outputs easier to integrate into applications. Reliable systems should also include appropriate error handling, validation, and checks for semantic correctness.
 
-## 👨‍💻 Author
-
-**Mani Ratan**
-
-- GitHub: [@mani787060](https://github.com/mani787060)
-- Repository: [structured-output-json](https://github.com/mani787060/structured-output-json)
