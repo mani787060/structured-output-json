@@ -117,4 +117,3 @@ JSON is widely supported across programming languages and application environmen
 ## 📚 Key Takeaways
 
 JSON Schema provides a standardized contract for describing structured data. Combined with a compatible LLM and LangChain, it can make AI outputs easier to integrate into applications. Reliable systems should also include appropriate error handling, validation, and checks for semantic correctness.
-
